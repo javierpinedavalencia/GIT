@@ -1,0 +1,11 @@
+.box {
+    width: 150px;
+    height: 150px;
+  
+    border: 15px solid #f44336;
+    padding: 0px;
+    margin: 20px;
+
+    background-color: #52ff3b;
+    
+  }
